@@ -1,1 +1,1 @@
-A program for visualising elementary cellular automata.
+A pygame program for visualising elementary cellular automata.
